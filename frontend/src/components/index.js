@@ -1,0 +1,8 @@
+export { default as Header } from './Header/Header'
+export { default as Footer } from './Footer/Footer'
+export { default as FooterLinks } from './Footer/FooterLinks'
+export { default as Slider } from './Slider/Slider'
+export { default as HomeInfoBox } from './HomeInfoBox/HomeInfoBox'
+export { default as ProductsCarousel } from './ProductsCarousel/ProductsCarousel'
+export { default as CarouselItem } from './ProductsCarousel/CarouselItem'
+export { default as ProductCategory } from './ProductCategory/ProductCategory'
